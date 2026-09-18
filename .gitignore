@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+.env
+
+data/ml-latest-small/
+data/*.csv
+*.zip
+
+models/*.joblib
+
+.ipynb_checkpoints/
+.vscode/
