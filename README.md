@@ -21,6 +21,26 @@ The application combines **Singular Value Decomposition (SVD) collaborative filt
 - **Model Evaluation:** Evaluate SVD performance using RMSE, MAE, Precision@K, and Recall@K.
 - **Interactive Web Interface:** Explore recommendations through a Streamlit dashboard.
 
+## 📸 Application Screenshots
+
+### Personalized Movie Recommendations
+
+Explore personalized movie recommendations generated using collaborative filtering and genre preferences.
+
+![MovieMind Personalized Recommendations](screenshots/for-you.png)
+
+### Hybrid Similar Movie Discovery
+
+Discover similar movies by combining SVD movie embeddings with genre similarity.
+
+![MovieMind Similar Movies](screenshots/similar-movies.png)
+
+### Model Evaluation Dashboard
+
+Evaluate the SVD baseline using RMSE, MAE, Precision@10, and Recall@10.
+
+![MovieMind Evaluation Dashboard](screenshots/evaluation.png)
+
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
